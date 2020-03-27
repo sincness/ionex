@@ -1,2 +1,2 @@
-# ionex
-Ionex Application 🍍
+# Ionex 🍍
+Ionex Application
